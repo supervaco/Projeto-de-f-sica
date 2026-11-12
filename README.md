@@ -4,6 +4,8 @@ Projeto da disciplina de Física Aplicada e Eletromagnetismo (Engenharia de Rob�
 O programa simula a parada de um robô móvel em duas etapas (tempo de resposta e frenagem),
 executa os Experimentos A–D e resolve o desafio da velocidade máxima segura.
 
+Autores do projeto: Arthur Napoleão, Gabriel Holanda, Gabriel Moura, Marcos Costa, Vinicius Wallach.
+
 ## Estrutura
 
 ```
